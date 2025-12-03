@@ -1,0 +1,7 @@
+{
+  "name": "EcoSort AI",
+  "description": "A smart recycling assistant that uses AI to identify trash types from photos, gamifying waste management with Eco Points and a leaderboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
